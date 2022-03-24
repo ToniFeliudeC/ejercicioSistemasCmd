@@ -23,8 +23,7 @@
 #### 8.- Desde TABLAS muestra el listado de archivos y carpetas de la carpeta raíz
 <img src="https://i.gyazo.com/6620f53def8d526414af0e8f9caec21f.png">
 
-#### 9.- Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de
-VARIOS
+#### 9.- Sitúate en la carpeta APLI y desde allí crea una subcarpeta llamada AGENDA dentro de VARIOS
 <img src="https://i.gyazo.com/f7fbafe50486acda0e2cda280f77f2cd.png">
 
 #### 10.- Borra la carpeta EXCEL
