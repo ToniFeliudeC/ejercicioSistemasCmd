@@ -1,11 +1,11 @@
-#EJERCICIO DE CLASE 2. Ejercicios básicos de MS-DOS
+# EJERCICIO DE CLASE 2. Ejercicios básicos de MS-DOS
 
-##Ejercicio 1
+## Ejercicio 1
 
-####1.- Crea la siguiente estructura de carpetas:
+#### 1.- Crea la siguiente estructura de carpetas:
 <img src="https://i.gyazo.com/ac684dfb876fa7ebd459fd936c97bf57.png">
 
-####2.- Sitúate en la carpeta TABLAS
+#### 2.- Sitúate en la carpeta TABLAS
 <img src="https://i.gyazo.com/89198108e2736e52ef153615f3f57196.png">
 
 ####4.- Muestra el contenido de la carpeta PROG
