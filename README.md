@@ -141,7 +141,7 @@ observación astronómica constituye uno de los hitos de la astronomía.”
 
 <img src="https://i.gyazo.com/4a7bc47f63d9b2a619f1bc70532b3854.png">
 
-##Ejercicio 4
+## Ejercicio 4
 
 #### 1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO
 
